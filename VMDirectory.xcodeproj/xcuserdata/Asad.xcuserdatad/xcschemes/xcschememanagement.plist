@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>VMDirectory.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>VMDirectory_DEV.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>VMDirectory_QA.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C3096AC72926C15F00866E8C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C3096B072926C84A00866E8C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C367003E2926BA8F00DF4F67</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C367FFA2292563AC00DF4F67</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C367FFBB292563AE00DF4F67</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C367FFC5292563AE00DF4F67</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C367FFFA292672B300DF4F67</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

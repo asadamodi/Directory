@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Localize_Swift",
+        "repositoryURL": "https://github.com/marmelroy/Localize-Swift.git",
+        "state": {
+          "branch": "master",
+          "revision": "0aa221fed0512772eaad04171d966b8d77b15212",
+          "version": null
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": "master",
+          "revision": "430ef4d73ca268d8efcefad08d3ac020af91c750",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

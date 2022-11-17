@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  VMDirectory
+
+  Created by Asad on 16/11/22.
+  
+*/
+
+"pleaseWait" = "Please wait....";
+"noInternetAlert" = "Not connected to internet.";
+"somethingWentWrong" = "Something went wrong.";
+
+//MARK: HomeViewController
+
+"employees" = "Employees";
+"rooms" = "Rooms";
+"VMDirectory" = "Directory";
+
+
+//MARK: ROOMLIST
+"occupied" = "Occupied";
+"free" = "Free";
+"maxOccupancy" = "Max. Occupancy";
+"room" = "Room";
+
+//           let avatar: String?
+//           let lastName, email, jobtitle, favouriteColor: String?
+//           let id: String?
+//MARK: EMPLOYEE PROFILE
+"name" = "Name";
+"email" = "Email";
+"designation" = "Designation";
+"fvrtColor" = "Favourite Color";
+
+
